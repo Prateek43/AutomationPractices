@@ -1,1 +1,9 @@
 .md is called = marked down
+GIT – Distributed version control System, it is SCM Software Configuration Management/Source Code Management
+Version maintenance helps to get back old code for reference
+Distributed VCS - Multiple coders upload to same server, copy of code files are also maintained in local directory(local repository).
+Trunk Based Development – Creating new branch to not loose old code version, when final code is achieved you can push the code to main branch
+GitHub is free for public and open source project, for private its not free of cost.
+Bitbucket provide free private repository for small teams.
+GitLab – Integration is slow
+ 
