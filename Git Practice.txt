@@ -1,4 +1,7 @@
+GIT - Distributed Version Control System
+
 .md is called = marked down
+<<<<<<< Updated upstream
 GIT – Distributed version control System, it is SCM Software Configuration Management/Source Code Management
 Version maintenance helps to get back old code for reference
 Distributed VCS - Multiple coders upload to same server, copy of code files are also maintained in local directory(local repository).
@@ -7,3 +10,17 @@ GitHub is free for public and open source project, for private its not free of c
 Bitbucket provide free private repository for small teams.
 GitLab – Integration is slow
  
+=======
+
+github  -	Task Management, Bug Tracking, Hosting Service for GIT Repo
+		- 	fork aka branch (master branch and feature branch)(rep copied from one members account to another members account), 
+		-	pullrequest, 
+		-	merge
+
+BitBucket 	- Free for small teams <=5
+			- 2 factor authentication system
+			- Authentication via GitHub
+			- JIRA integration
+			- Repository importing
+			- Not so stable as Github
+>>>>>>> Stashed changes
